@@ -12,9 +12,9 @@
 
 ### 🚀 Featured Projects
 - **Gnomish**: A public goods funding platform on Base Layer 2 (ETH Bucharest - 1st Prize)
-- **Shield Space**: Privacy-preserving event platform (ETH Rome - 2nd Prize)
-- Check out more projects on my [GitHub Repositories]([https://github.com/MihRazvan?tab=repositories])
+- **S H I E L D S P A C E**: Privacy-preserving event platform (ETH Rome - 2nd Prize)
+- Check out more projects on my [GitHub Repositories](https://github.com/MihRazvan?tab=repositories)
 
 ### 📫 Let's Connect!
-- [LinkedIn]([https://www.linkedin.com/in/razvanmih/])
-- [Medium Blog]([https://medium.com/@mihrazvan])
+- [LinkedIn](https://www.linkedin.com/in/razvanmih/)
+- [Medium Blog](https://medium.com/@mihrazvan)
