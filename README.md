@@ -8,7 +8,7 @@
 ### 🛠️ Technical Skills
 - **Programming languages:** Solidity, Noir, JavaScript
 - **Libraries/APIs :** OpenZeppelin Contracts, Sablier, Chainlink Oracles, Secret.js, Noir.js, Next.js
-- **Frameworks :** Foundry, Hardhat, Scaffold-ETH2
+- **Frameworks :** Foundry, Scaffold-ETH2
 
 ### 🚀 Featured Projects
 - **Gnomish**: A public goods funding platform on Base Layer 2 (ETH Bucharest - 1st Prize)
