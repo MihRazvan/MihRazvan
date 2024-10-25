@@ -6,7 +6,7 @@
 - 🏆 Hackathon Winner: 1st Prize @ ETH Bucharest, 2nd Prize @ ETH Rome
 
 ### 🛠️ Technical Skills
-- **Programming languages:** Solidity, Noir, JavaScript
+- **Programming languages:** Solidity, Noir, Python
 - **Libraries/APIs :** OpenZeppelin Contracts, Sablier, Chainlink Oracles, Secret.js, Noir.js, Next.js
 - **Frameworks :** Foundry, Scaffold-ETH2
 
