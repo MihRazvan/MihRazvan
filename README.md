@@ -3,7 +3,7 @@
 ### 💻 About Me
 - 📚 Computer Engineering Student @ International Telematic University UNINETTUNO
 - 🌐 Passionate about Blockchain, Smart Contracts, and Web3 development
-- 🏆 Hackathon Winner: 1st Prize @ ETH Bucharest, 2nd Prize @ ETH Rome
+- 🏆 Hackathon Winner: 1st Prize - Open Track @ ETH Bucharest, 2nd Prize - Privacy Track @ ETH Rome
 
 ### 🛠️ Technical Skills
 - **Programming languages:** Solidity, Noir, Python
