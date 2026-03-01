@@ -1,8 +1,6 @@
 # Razvan Mihailescu
 
-I build full-stack blockchain products and I ship fast. Not "fast for a solo dev", fast in the way that makes teams uncomfortable. I use AI heavily, treat it as infrastructure, and I've stopped apologizing for it.
-
-My track record: 15+ hackathons, most of them won or placed. A full-time job where I own frontend, backend, and smart contracts simultaneously across multiple live products. I dropped out to do this full time and I haven't looked back.
+Full stack blockchain developer. I started competing in hackathons to learn fast — shipping real things under pressure turned out to be a better education than anything structured. That habit stuck: I build across the full stack (frontend, backend, smart contracts), use AI as a core part of my workflow.
 
 ---
 
@@ -10,27 +8,24 @@ My track record: 15+ hackathons, most of them won or placed. A full-time job whe
 
 **Full Stack Blockchain Developer — Astrarizon** (May 2025 – present)
 
-Astrarizon builds [Pulsar.Money](https://pulsar.money) — a crypto super-app with 500K+ users, 7M+ users reached across whitelabel products, and 150+ partner projects. Trading, yield vaults, gamification, payments, quests. The full stack.
+Building [Pulsar.Money](https://pulsar.money) — a crypto super-app covering trading, yield vaults, gamification, quests, and payments. 500K+ users, 7M+ reached across whitelabel deployments.
 
-My scope covers the entire product surface: Next.js frontend, NestJS/Postgres/Redis backend, and Solidity/Move smart contracts. On any given week I'm writing contract logic, building APIs, and shipping UI — sometimes all three on the same ticket.
+My work spans Next.js frontend, NestJS/Postgres/Redis backend, and Solidity/Move smart contracts. Things I've shipped here:
 
-What I've actually built:
-- Passive yield vault system (Earn module) — contract architecture, backend integration, full frontend
-- Gamification layer — quest engine, leaderboards, points campaigns, profile system
-- Whitelabel engagement portals for external partners across EVM and Aptos
-- Campaign infrastructure used by 150+ projects running on top of Pulsar
+- Passive yield vault system (Earn module) — contracts, backend, frontend
+- Quest engine, leaderboards, points campaigns, and profile system
+- Whitelabel engagement portals for external partners on EVM and Aptos
+- Campaign infrastructure running across 150+ partner projects
 
 ---
 
 ## Featured Project
 
-**Autark** — ETHRome 2025, Privacy Track winner
+**Autark** — ETHRome 2025, Privacy Track
 
-Autark is a DevSecOps framework for frontend deployments built on Safe + ENS + IPFS. The core idea: modern CI/CD pipelines are one compromised developer away from pushing malicious code to millions of users in minutes. Autark fixes this by making deployments require multisig approval and cryptographically locking every version forever once it's live.
+A DevSecOps framework for frontend deployments built on Safe + ENS + IPFS. The problem it solves: a single compromised developer can push malicious code through an automated CI/CD pipeline in minutes. Autark adds a multisig approval checkpoint before anything goes live, and cryptographically locks every deployed version via ENS NameWrapper fuses so it can't be modified afterward — not even by the Safe signers.
 
-The technical core: IPFS for content-addressed immutable storage, ENS NameWrapper with burned fuses so nobody — not even the Safe signers — can modify a deployed version after the fact, and batched Safe transactions so rejected proposals don't waste version slots. Each release becomes a permanent, auditable artifact.
-
-It ships as a CLI (`npm install -g autark`, `autark deploy dist`) and integrates directly into GitHub Actions and git hooks, so it fits into existing pipelines without reworking everything.
+Batched Safe transactions handle subdomain creation and content-hash setting atomically, so rejected proposals don't waste version slots. Ships as a CLI that plugs into GitHub Actions and git hooks.
 
 [Demo](https://www.youtube.com/watch?v=-pGsHpUI0J0) · [Repo](https://github.com/MihRazvan/ETHRome_hackathon) · [Safe DAO Proposal](https://forum.safe.global/t/grant-proposal-supporting-autark-a-secure-self-sovereign-frontend-deployment-framework-built-on-safe/6799)
 
@@ -38,7 +33,7 @@ It ships as a CLI (`npm install -g autark`, `autark deploy dist`) and integrates
 
 ## Hackathons
 
-Serial winner across 15+ events. A few highlights:
+15+ events, mostly placed. A few results:
 
 | Result | Event | Track |
 |--------|-------|-------|
@@ -49,20 +44,6 @@ Serial winner across 15+ events. A few highlights:
 | #2 | Scroll Open Hackathon 2025 | DeFi |
 | #2 | ETH Rome 2024 | Privacy |
 | Bounties | ETH Bucharest 2026, ETH Global Agentic, ETH Sofia, Encode London, MIT Bitcoin | — |
-
-The pattern isn't luck. Hackathons are a forcing function for shipping something real in 48 hours. I've gotten good at it.
-
----
-
-## Stack
-
-**Languages:** Solidity, Move, TypeScript, Python, Rust (learning)
-
-**Frontend:** Next.js, React, Tailwind
-
-**Backend:** NestJS, PostgreSQL, Redis
-
-**Blockchain:** EVM (Ethereum, Base, Scroll, Aptos), Safe, ENS, IPFS, Chainlink, ERC-20/721/1155/4626
 
 **Infrastructure:** GitHub Actions, Docker, Alchemy/Infura, Storacha
 
@@ -75,4 +56,4 @@ The pattern isn't luck. Hackathons are a forcing function for shipping something
 
 ---
 
-*Cyfrin Updraft, Chainlink, and Encode certified — though at this point the GitHub history says more than any cert.*
+*Certified by HarvardX, Cyfrin Updraft, Chainlink, Encode, and others.*
