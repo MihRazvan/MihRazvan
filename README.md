@@ -1,6 +1,6 @@
 # Razvan Mihailescu
 
-I build full-stack blockchain products and I ship fast. Not "fast for a solo dev" fast — fast in the way that makes teams uncomfortable. I use AI heavily, treat it as infrastructure, and I've stopped apologizing for it.
+I build full-stack blockchain products and I ship fast. Not "fast for a solo dev", fast in the way that makes teams uncomfortable. I use AI heavily, treat it as infrastructure, and I've stopped apologizing for it.
 
 My track record: 15+ hackathons, most of them won or placed. A full-time job where I own frontend, backend, and smart contracts simultaneously across multiple live products. I dropped out to do this full time and I haven't looked back.
 
