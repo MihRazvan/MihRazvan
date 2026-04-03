@@ -40,7 +40,7 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 | **🥇 1st** | **ETH Rome 2025** | [Autark](https://github.com/MihRazvan/ETHRome_hackathon) | DevSecOps / Privacy |
 | **🥇 1st** | **Lens Holiday Hack** | [Nexon](https://github.com/MihRazvan/talentfi) | AI Agents for Scouting |
 | **🥇 1st** | **Encode University** | [Theseus Alpha](https://github.com/MihRazvan/theseus_alpha) | Trading AI Agent on Hyperliquid |
-| **🥇 1st** | **ETH Bucharest 2024** | [Pipe It!](https://github.com/MihRazvan/bucharest_hackathon) | Finance / Yield |
+| **🥇 1st** | **ETH Bucharest 2025** | [Pipe It!](https://github.com/MihRazvan/bucharest_hackathon) | Finance / Yield |
 | **🥈 2nd** | **Scroll Open 2025** | [Bulwark](https://github.com/MihRazvan/bulwark_scroll) | Yield Generating Vaults |
 
 ---
