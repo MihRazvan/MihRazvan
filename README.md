@@ -9,7 +9,7 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** `Solidity` `Move` `TypeScript` `JavaScript` `Rust` (Learning)
+- **Languages:** `Solidity` `Move` `TypeScript` `JavaScript` `Rust`
 - **Backend:** `NestJS` `Node.js` `PostgreSQL` `Redis` `Python`
 - **Frontend:** `Next.js` `React` `Tailwind CSS` `Framer Motion`
 - **Web3:** `Ethers.js` `Viem/Wagmi` `AI Agents (ERC-8004)` `RPC Infrastructure`
