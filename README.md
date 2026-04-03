@@ -1,4 +1,4 @@
-# Hi there, I'm Razvan Mihailescu 👋
+# Ayo!
 
 ### Full Stack Blockchain Engineer | AI-Augmented Builder | Multi-Chain Specialist
 
