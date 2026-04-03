@@ -1,4 +1,4 @@
-# Ayo!
+# Welcome to my TED Talk!
 
 ### Full Stack Blockchain Engineer | AI-Augmented Builder | Multi-Chain Specialist
 
