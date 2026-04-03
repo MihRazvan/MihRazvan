@@ -21,8 +21,8 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 
 ### **Full Stack Blockchain Developer — Astrarizon** (*April 2025 – Present*)
 
-* **Mass-Scale Infrastructure:** Architected and deployed engagement portals for **Linera, Spicenet, and XMoney**, scaling to **2,000,000+ active users**.
-* **Yield Systems:** Engineered a passive yield vault system (Earn) including smart contract architecture, backend indexing, and frontend management.
+* **Mass-Scale Infrastructure:** Architected and deployed engagement portals for **Linera, Spicenet, and XMoney** and many more, scaling to **2,000,000+ active users**.
+* **Yield Systems:** Engineered a passive yield vault system including smart contract architecture, backend indexing, and frontend management.
 * **Web3 Ticketing:** Developed a Move-based ticketing protocol for **Rhuna**, powering major music festivals like **Untold** and **Kapital**.
 * **Multi-Chain Execution:** Managed infrastructure and deployments across EVM, Sui, MultiversX, and Solana.
 
