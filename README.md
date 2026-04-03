@@ -38,17 +38,17 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 | Result | Event | Project | Focus |
 | :--- | :--- | :--- | :--- |
 | **🥇 1st** | **ETH Rome 2025** | [Autark](https://github.com/MihRazvan/ETHRome_hackathon) | DevSecOps / Privacy |
-| **🥇 1st** | **Lens Holiday Hack** | [Demo Day] | Social Graph / UX |
-| **🥇 1st** | **Encode University** | [Spectral] | Credit Scoring |
-| **🥇 1st** | **ETH Bucharest 2024** | [General] | Infrastructure |
-| **🥈 2nd** | **Scroll Open 2025** | [DeFi Track] | Layer 2 Scaling |
+| **🥇 1st** | **Lens Holiday Hack** | [Nexon](https://github.com/MihRazvan/talentfi) | AI Agents for Scouting |
+| **🥇 1st** | **Encode University** | [Theseus Alpha](https://github.com/MihRazvan/theseus_alpha) | Trading AI Agent on Hyperliquid |
+| **🥇 1st** | **ETH Bucharest 2024** | [Pipe It!](https://github.com/MihRazvan/bucharest_hackathon) | Finance / Yield |
+| **🥈 2nd** | **Scroll Open 2025** | [Bulwark](https://github.com/MihRazvan/bulwark_scroll) | Yield Generating Vaults |
 
 ---
 
 ## 🧠 Featured Research: Autark
 **A DevSecOps framework for frontend deployments built on Safe + ENS + IPFS.**
 It solves the "Single Dev Compromise" problem by adding a multisig approval checkpoint before code goes live, cryptographically locking versions via ENS NameWrapper.
-[🎥 Watch the Demo](https://www.youtube.com/watch?v=-pGsHpUI0J0) | [📄 Read the Safe DAO Proposal](https://forum.safe.global/t/grant-proposal-supporting-autark-a-secure-self-sovereign-frontend-deployment-framework-built-on-safe/6799)
+[📄 Read the Safe DAO Proposal](https://forum.safe.global/t/grant-proposal-supporting-autark-a-secure-self-sovereign-frontend-deployment-framework-built-on-safe/6799)
 
 ---
 
