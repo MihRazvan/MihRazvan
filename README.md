@@ -1,59 +1,59 @@
-# Razvan Mihailescu
+# Hi there, I'm Razvan Mihailescu 👋
 
-Full stack blockchain developer. I started competing in hackathons to learn fast — shipping real things under pressure turned out to be a better education than anything structured. That habit stuck: I build across the full stack (frontend, backend, smart contracts), use AI as a core part of my workflow.
+### Full Stack Blockchain Engineer | AI-Augmented Builder | Multi-Chain Specialist
 
----
+I am a high-velocity engineer focused on shipping production-grade Web3 infrastructure. Since transitioning from a 2017-era DeFi power user to a developer, I have won **15+ global hackathons** and built systems that have served **2,000,000+ users** across various ecosystems.
 
-## Work
-
-**Full Stack Blockchain Developer — Astrarizon** (May 2025 – present)
-
-Building [Pulsar.Money](https://pulsar.money) — a crypto super-app covering trading, yield vaults, gamification, quests, and payments. 500K+ users, 7M+ reached across whitelabel deployments.
-
-My work spans Next.js frontend, NestJS/Postgres/Redis backend, and Solidity/Move smart contracts. Things I've shipped here:
-
-- Passive yield vault system (Earn module) — contracts, backend, frontend
-- Quest engine, leaderboards, points campaigns, and profile system
-- Whitelabel engagement portals for external partners on EVM and Aptos
-- Campaign infrastructure running across 150+ partner projects
+**My Edge:** I leverage an advanced AI-driven workflow to maintain 10x shipping speeds without compromising on security or architecture. I don't just write code; I architect systems that bridge the gap between complex on-chain logic and seamless user experiences.
 
 ---
 
-## Featured Project
-
-**Autark** — ETHRome 2025, Privacy Track
-
-A DevSecOps framework for frontend deployments built on Safe + ENS + IPFS. The problem it solves: a single compromised developer can push malicious code through an automated CI/CD pipeline in minutes. Autark adds a multisig approval checkpoint before anything goes live, and cryptographically locks every deployed version via ENS NameWrapper fuses so it can't be modified afterward — not even by the Safe signers.
-
-Batched Safe transactions handle subdomain creation and content-hash setting atomically, so rejected proposals don't waste version slots. Ships as a CLI that plugs into GitHub Actions and git hooks.
-
-[Demo](https://www.youtube.com/watch?v=-pGsHpUI0J0) · [Repo](https://github.com/MihRazvan/ETHRome_hackathon) · [Safe DAO Proposal](https://forum.safe.global/t/grant-proposal-supporting-autark-a-secure-self-sovereign-frontend-deployment-framework-built-on-safe/6799)
+## 🛠 Tech Stack
+- **Languages:** `Solidity` `Move` `TypeScript` `JavaScript` `Rust` (Learning)
+- **Backend:** `NestJS` `Node.js` `PostgreSQL` `Redis` `Python`
+- **Frontend:** `Next.js` `React` `Tailwind CSS` `Framer Motion`
+- **Web3:** `Ethers.js` `Viem/Wagmi` `AI Agents (ERC-8004)` `RPC Infrastructure`
+- **Infrastructure:** `Docker` `GitHub Actions` `AWS` `Vercel` `IPFS/Storacha`
 
 ---
 
-## Hackathons
+## 🚀 Professional Experience
 
-15+ events, mostly placed. A few results:
+### **Full Stack Blockchain Developer — Astrarizon** *May 2025 – Present*
 
-| Result | Event | Track |
-|--------|-------|-------|
-| #1 | ETH Rome 2025 | Privacy |
-| #1 | Lens Holiday Hackathon 2025 | Demo Day |
-| #1 | Encode University Hackathon 2025 | Spectral |
-| #1 | ETH Bucharest 2024 | General |
-| #2 | Scroll Open Hackathon 2025 | DeFi |
-| #2 | ETH Rome 2024 | Privacy |
-| Bounties | ETH Bucharest 2026, ETH Global Agentic, ETH Sofia, Encode London, MIT Bitcoin | — |
+* **Mass-Scale Infrastructure:** Architected and deployed engagement portals for **Linera, Spicenet, and XMoney**, scaling to **2,000,000+ active users**.
+* **Yield Systems:** Engineered a passive yield vault system (Earn) including smart contract architecture, backend indexing, and frontend management.
+* **Web3 Ticketing:** Developed a Move-based ticketing protocol for **Rhuna**, powering major music festivals like **Untold** and **Kapital**.
+* **Multi-Chain Execution:** Managed infrastructure and deployments across EVM, Sui, MultiversX, and Solana.
 
-**Infrastructure:** GitHub Actions, Docker, Alchemy/Infura, Storacha
+### **Web3 Developer Intern — Skytrade** *Nov 2024 – April 2025*
+
+* Contributed to decentralized air-rights trading infrastructure and technical documentation.
 
 ---
 
-## Connect
+## 🏆 Selected Hackathon Wins (15+ Total)
+*I build under pressure. My projects focus on solving fundamental Web3 friction.*
 
+| Result | Event | Project | Focus |
+| :--- | :--- | :--- | :--- |
+| **🥇 1st** | **ETH Rome 2025** | [Autark](https://github.com/MihRazvan/ETHRome_hackathon) | DevSecOps / Privacy |
+| **🥇 1st** | **Lens Holiday Hack** | [Demo Day] | Social Graph / UX |
+| **🥇 1st** | **Encode University** | [Spectral] | Credit Scoring |
+| **🥇 1st** | **ETH Bucharest 2024** | [General] | Infrastructure |
+| **🥈 2nd** | **Scroll Open 2025** | [DeFi Track] | Layer 2 Scaling |
+
+---
+
+## 🧠 Featured Research: Autark
+**A DevSecOps framework for frontend deployments built on Safe + ENS + IPFS.**
+It solves the "Single Dev Compromise" problem by adding a multisig approval checkpoint before code goes live, cryptographically locking versions via ENS NameWrapper.
+[🎥 Watch the Demo](https://www.youtube.com/watch?v=-pGsHpUI0J0) | [📄 Read the Safe DAO Proposal](https://forum.safe.global/t/grant-proposal-supporting-autark-a-secure-self-sovereign-frontend-deployment-framework-built-on-safe/6799)
+
+---
+
+## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razvanmih/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razvan.mihailescu1996@gmail.com)
 
----
-
-*Certified by HarvardX, Cyfrin Updraft, Chainlink, Encode, and others.*
+*"Shipping is the only feature that matters."*
