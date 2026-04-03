@@ -8,7 +8,7 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** `Solidity` `Move` `TypeScript` `JavaScript` `Rust`
 - **Backend:** `NestJS` `Node.js` `PostgreSQL` `Redis` `Python`
 - **Frontend:** `Next.js` `React` `Tailwind CSS` `Framer Motion`
@@ -17,7 +17,7 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 
 ---
 
-## 🚀 Professional Experience
+## Professional Experience
 
 ### **Full Stack Blockchain Developer — Astrarizon** (*April 2025 – Present*)
 
@@ -32,7 +32,7 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 
 ---
 
-## 🏆 Selected Hackathon Wins (15+ Total)
+## Selected Hackathon Wins (15+ Total)
 *I build under pressure. My projects focus on solving fundamental Web3 friction.*
 
 | Result | Event | Project | Focus |
@@ -45,14 +45,14 @@ I am a high-velocity engineer focused on shipping production-grade Web3 infrastr
 
 ---
 
-## 🧠 Featured Research: Autark
+## Featured Research: Autark
 **A DevSecOps framework for frontend deployments built on Safe + ENS + IPFS.**
 It solves the "Single Dev Compromise" problem by adding a multisig approval checkpoint before code goes live, cryptographically locking versions via ENS NameWrapper.
 [📄 Read the Safe DAO Proposal](https://forum.safe.global/t/grant-proposal-supporting-autark-a-secure-self-sovereign-frontend-deployment-framework-built-on-safe/6799)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razvanmih/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razvan.mihailescu1996@gmail.com)
 
