@@ -12,10 +12,10 @@ I leverage a heavily agent-assisted workflow. By orchestrating multiple LLMs to 
 
 ## Tech Stack
 - **Languages:** `Solidity` `TypeScript` `JavaScript` `Move` `Rust` `Python`
-- **Web3 & Crypto:** `Ethers.js` `Viem/Wagmi` `AI Agents (ERC-8004)` `Zama fhEVM` `RPC Infrastructure` 
+- **Web3 & Crypto:** `Ethers.js` `Viem/Wagmi` `AI Agents (ERC-8004)` `RPC Infrastructure` 
 - **Frontend:** `Next.js` `React` `Tailwind CSS` `Three.js` `Framer Motion`
-- **Backend:** `NestJS` `Node.js` `Fastify` `PostgreSQL` `Redis`
-- **Infrastructure:** `Docker` `GitHub Actions` `Safe Multisig` `ENS NameWrapper` `IPFS`
+- **Backend:** `NestJS` `Node.js` `PostgreSQL` `Redis`
+- **Infrastructure:** `Docker` `GitHub Actions` `Safe Multisig` `IPFS`
 
 ---
 
@@ -52,7 +52,7 @@ I leverage a heavily agent-assisted workflow. By orchestrating multiple LLMs to 
 * **[SHIELD SPACE](https://github.com/MihRazvan/SHIELDSPACE-ETHRome)** — 2nd Place (Privacy Track), *ETH Rome 2024*
 * **[Nexon](https://github.com/MihRazvan/talentfi)** — 2nd Place (Demo Day), *Lens Hackathon*
 
-> *Plus multiple wins and top placements at MIT Bitcoin Hackathon, ETH Bucharest 2024, Arbitrum Stylus Hackathon, ETH Sofia, and Encode London.*
+> *Plus multiple wins and top placements at MIT Bitcoin Hackathon, ETH Bucharest 2024, Arbitrum Stylus Hackathon, ETH Sofia, Encode London, and others.*
 
 ---
 
@@ -60,11 +60,11 @@ I leverage a heavily agent-assisted workflow. By orchestrating multiple LLMs to 
 
 ### **Full Stack Blockchain Developer — Astrarizon** *(April 2025 – Present)*
 * **Mass-Scale Infrastructure:** Architected and deployed white-label gamification and engagement portals (Next.js/NestJS/Postgres), scaling cumulative infrastructure to support over 2,000,000 active users.
-* **Web3 Ticketing:** Developed a Move-based ticketing protocol that processed over 400,000 NFT tickets for major large-scale events.
+* **Web3 Ticketing:** Developed a web3 ticketing protocol that processed over 400,000 NFT tickets for major large-scale events.
 * **Ecosystem Engineering:** Managed on-chain task indexing, yield systems, and Token Generation Event (TGE) mints across EVM, Sui, MultiversX, and Solana.
 
 ### **Web3 Developer Intern — Skytrade** *(Nov 2024 – April 2025)*
-* Engineered a Solana program using Rust and Anchor to enable 1:1000 fractionalization of compressed NFTs (cNFTs) into fungible SPL tokens.
+* Engineered a Solana program using Rust and Anchor to enable fractionalization of compressed NFTs (cNFTs) into fungible SPL tokens.
 * Implemented secure PDA-based authority, vault state management, and full-token burn requirements for secure asset retrieval.
 
 ---
