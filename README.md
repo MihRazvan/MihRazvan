@@ -2,11 +2,11 @@
 
 ### Full Stack Blockchain Engineer | Multi-Chain Specialist | 15x Hackathon Winner
 
-**The Origin Story:** I transitioned from a 2017-era DeFi user to a blockchain engineer after losing my portfolio in the June 2022 Harmony Horizon Bridge hack. That event pushed me to study smart contract security, read postmortems, and learn how to build the systems that broke. 
+I transitioned from a 2017-era DeFi user to a blockchain engineer after losing my portfolio in the June 2022 Harmony Horizon Bridge hack. That event pushed me to study smart contract security, read postmortems, and learn how to build the systems that broke. 
 
 Since then, I have competed in and won 15+ global hackathons and transitioned into a full-time engineering role building infrastructure that has scaled to over 2,000,000 active users. 
 
-**My Edge:** I leverage a heavily agent-assisted workflow. By orchestrating multiple LLMs to handle test generation, security verification, and boilerplate architecture, I am able to focus entirely on complex on-chain logic and system design. This allows me to ship robust, production-grade code at a highly accelerated pace.
+I leverage a heavily agent-assisted workflow. By orchestrating multiple LLMs to handle test generation, security verification, and boilerplate architecture, I am able to focus entirely on complex on-chain logic and system design. This allows me to ship robust, production-grade code at a highly accelerated pace.
 
 ---
 
