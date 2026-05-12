@@ -6,7 +6,7 @@ Since then, I have won 16 global hackathons and scaled production infrastructure
 
 ---
 
-## 🏆 Featured: Ethereum Core R&D
+## Featured: Ethereum Core R&D
 
 ### [Anyware](https://github.com/MihRazvan/ETH_Prague_Hackathon) *(1st Place Ethereum Core — ETH Prague 2026)*
 *A trustless cross-chain state verification system using EIP-4788 beacon roots to verify Ethereum state directly on-chain.*
