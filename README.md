@@ -89,7 +89,7 @@ Security for Pulsar, a self-custodial neobank. AI audit tooling, security monito
 **Full Stack Blockchain Developer — Astrarizon** *(April 2025 – April 2026)*
 Scaled white-label gamification infrastructure to **2,000,000+ active users**. Built a Web3 ticketing protocol processing **400,000+ NFT tickets**. Managed Token Generation Events and on-chain indexing across EVM and Solana.
 
-**Web3 Developer Intern — Skytrade** *(Nov 2024 – April 2025)*
+**Web3 Developer Intern — Skytrade** *(Oct 2024 – Feb 2025)*
 Engineered a Solana program in Rust/Anchor for cNFT fractionalisation into SPL tokens. Implemented PDA-based authority and vault state management.
 
 ---
