@@ -21,15 +21,17 @@ I build **multi-agent AI systems for automated vulnerability discovery** and app
 
 ### Bittersteel — AI system for protocol and DLT security
 
-An autonomous research system for finding security defects in distributed-ledger clients and specifications, built on one premise: **an automated finding is worthless unless the instrument that produced it can be shown to work.**
+An AI system for finding security defects in protocol clients and specifications, and for establishing which of them are real.
 
-* **Surface compilation** — targets are extracted mechanically from executable specifications and system history rather than chosen by intuition, so coverage is measurable rather than asserted.
-* **Bounded, reproducible investigation** — each line of enquiry runs as an isolated, budgeted task with pinned inputs, explicit preconditions, and distinct recorded outcomes.
-* **Adversarial vetting with asymmetric authority** — the role arguing *for* a finding cannot kill it; the role arguing against it can kill only on executed evidence or a cited rule, never on argument alone.
-* **Evidence tiers** — a lead's strength is always a tier with defined criteria, never a judgement call.
-* **Control gating** — a clean result is not recordable unless a planted defect was detected in the same run, because *"nothing was found"* and *"the instrument never ran"* are indistinguishable in the output.
+It began as a single agent orchestrating subagents against smart contracts. That shape fails in one specific way: when the orchestrator's context compacts, facts disappear silently, and when the orchestrator is wrong, every subagent inherits the error as a premise.
+It has since grown into a system that:
 
-The same mechanisms generalise to how audits are run: the constraint on automated security work is not how much you can generate, but how much of it you can defend.
+* **compiles a protocol into a security model** — properties, actors, object lifecycles, state ownership, validation handoffs — so investigations search histories and relationships rather than scanning source files;
+* **runs independent lines of enquiry** deliberately kept from anchoring on one another, with disagreement between them recorded as evidence rather than reconciled away;
+* **owns durable cases** with their own state machine — decide, execute, incorporate, with rollback — each driven by the single unanswered fact that most changes its outcome;
+* **executes for real** against client builds, harnesses and isolated devnets, with every run pinned, leased and archived.
+
+Currently pointed at Ethereum — ~90 investigations run to disposition across Geth, Besu, Erigon, Nethermind and ethrex.
 
 ---
 
