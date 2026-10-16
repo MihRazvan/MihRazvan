@@ -69,7 +69,7 @@ A governance layer for frontend deployment, built on the premise that a compromi
 
 | Project | Result | Event |
 |---|---|---|
-| [Trust City Exchange](https://github.com/MihRazvan/agents) | ?? | PL Genesis — autonomous AI agent marketplace, ERC-8004 identity and reputation |
+| [Trust City Exchange](https://github.com/MihRazvan/agents) | 2nd | PL Genesis — autonomous AI agent marketplace, ERC-8004 identity and reputation |
 | [Cloakline](https://github.com/MihRazvan/cloakline) | 2nd, Infra | PL Genesis — privacy-preserving RPC proxy encrypting operational logs via Zama fhEVM |
 | [Bulwark](https://github.com/MihRazvan/bulwark_scroll) | 2nd, DeFi | Scroll Open 2025 — cross-protocol yield optimisation and risk rebalancing |
 | [Pipe IT!!](https://github.com/MihRazvan/bucharest_hackathon) | 1st | ETH Bucharest 2025 |
